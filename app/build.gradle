@@ -3,7 +3,7 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 26
     defaultConfig {
-        applicationId "com.example.lavan32428068.clock"
+        applicationId "com.example.lavan32428068.t4"
         minSdkVersion 15
         targetSdkVersion 26
         versionCode 1
